@@ -7,12 +7,7 @@ Create console application in C++ that read a custom text file input (*.txt) and
 
 Output format:
 
-No.             Word                 Frequency
-1                Word-1              Frequency-1
-.                    .                         .
-.                    .                         .
-.                    .                         .
-.                    .                         .
-N                Word-2              Frequency-2
+![image](https://github.com/ahmadq122/word-frequency/assets/74335302/4b90bf88-d438-4e3c-9bbe-d756d104c864)
+
 
 This code will not be written in a console but in a GUI (Qt QML and C++ based).
